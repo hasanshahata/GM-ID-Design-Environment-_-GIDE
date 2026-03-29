@@ -1,0 +1,7 @@
+# Ignore executables and Linux builds
+*.exe
+*_Linux/
+*_Linux
+
+# Ignore heavy extracted PDK data
+*.pkl

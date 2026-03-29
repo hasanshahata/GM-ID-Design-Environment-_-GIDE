@@ -2,7 +2,7 @@
 
 
 
-**GIDE* is a comprehensive, cross-platform standalone application built for modern Analog IC Designers. It streamlines the $g_m/I_D$ design methodology by automating the characterization of semiconductor devices (using Cadence Spectre) and providing a Universal Sizing Engine to instantly translate circuit specifications into precise transistor dimensions.
+*GIDE* is a comprehensive, cross-platform standalone application built for modern Analog IC Designers. It streamlines the $g_m/I_D$ design methodology by automating the characterization of semiconductor devices (using Cadence Spectre) and providing a Universal Sizing Engine to instantly translate circuit specifications into precise transistor dimensions.
 
 ## Features
 
